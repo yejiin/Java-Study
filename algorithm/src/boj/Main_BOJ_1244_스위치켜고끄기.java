@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_1244 {
+public class Main_BOJ_1244_스위치켜고끄기 {
 
     private static int switchCnt;
     private static int[] switchs;

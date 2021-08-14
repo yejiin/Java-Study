@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main_1289 {
+public class Solution_D3_1289_원재의메모리복구하기 {
 
     public static void main(String[] args) throws IOException {
 
