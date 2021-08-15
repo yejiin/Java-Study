@@ -1,14 +1,15 @@
-package boj;
+package solution.boj;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.StringReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Main_2493_탑 {
+public class Main_BOJ_2493_탑 {
 
-//	static String str = "6\r\n" + "7 4 9 3 6 8";
+//	static String str = "5\r\n" + "6 9 5 7 4";
 
     public static void main(String[] args) throws NumberFormatException, IOException {
 
@@ -48,7 +49,7 @@ public class Main_2493_탑 {
                         break;
                     }
                 }
-                // 바로 왼쪽 탑의 높이가 자신보다 높을 때
+            // 바로 왼쪽 탑의 높이가 자신보다 높을 때
             } else if (top[before] > top[i]) {
                 res[i] = before;
                 stack.push(before);

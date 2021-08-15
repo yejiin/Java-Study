@@ -1,4 +1,4 @@
-package boj;
+package solution.boj;;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

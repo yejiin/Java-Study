@@ -1,4 +1,4 @@
-package swea;
+package solution.swea;
 
 import java.io.*;
 import java.util.Arrays;
