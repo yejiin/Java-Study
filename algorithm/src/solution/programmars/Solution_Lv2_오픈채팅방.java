@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution_L2_오픈채팅방 {
+public class Solution_Lv2_오픈채팅방 {
 
     public static void main(String[] args) {
 
