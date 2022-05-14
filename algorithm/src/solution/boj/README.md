@@ -3,3 +3,7 @@
 > ### Simulation
 - [14499 (주사위 굴리기)](https://www.acmicpc.net/problem/14499) `[+1]`
 - [14503 (로봇 청소기)](https://www.acmicpc.net/problem/14503) `[+1]`
+
+
+> ### Brute Force
+- [17281 (⚾)](https://www.acmicpc.net/problem/17281)
