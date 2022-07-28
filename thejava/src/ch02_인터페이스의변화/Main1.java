@@ -1,5 +1,8 @@
 package ch02_인터페이스의변화;
 
+/**
+ * 1. interface - default method, static method
+ */
 public class Main1 {
 
     public static void main(String[] args) {
