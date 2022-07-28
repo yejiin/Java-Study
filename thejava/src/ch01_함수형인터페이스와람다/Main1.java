@@ -1,6 +1,9 @@
-package ch1;
+package ch01_함수형인터페이스와람다;
 
-public class Foo {
+/**
+ * 1. 함수형 인터페이스와 람다 표현식 소개
+ */
+public class Main1 {
 
     public static void main(String[] args) {
 

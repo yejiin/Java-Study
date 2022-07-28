@@ -1,4 +1,4 @@
-package ch1;
+package ch01_함수형인터페이스와람다;
 
 /**
  * 함수형 인터페이스 (Functional Interface)
