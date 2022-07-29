@@ -7,7 +7,7 @@ package ch01_함수형인터페이스와람다;
  */
 public interface RunSomething {
 
-    void doIt();  // abstract 생략
+    void doIt();  // abstract 생략(추상 메서드)
 
     static void printName() {
         System.out.println("kim");
