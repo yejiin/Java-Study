@@ -39,5 +39,20 @@ public class App {
         }
 
         System.out.println(settings5 == settings52);
+
+
+        /**
+         * enum 타입은 reflection 에서 new instance 를 생성하지 못함
+         * (오류 발생)
+         */
+        Settings6 settings6 = Settings6.INSTANCE;
+
+        Settings6 settings61 = null;
+        Constructor<?>[] declaredConstructors = Settings6.class.getDeclaredConstructors();
+        for (Constructor<?> declaredConstructor : declaredConstructors) {
+            declaredConstructor.setAccessible(true);
+            settings61 = (Settings6) declaredConstructor.newInstance("INSTANCE");
+        }
+        System.out.println(settings6 == settings61);
     }
 }
