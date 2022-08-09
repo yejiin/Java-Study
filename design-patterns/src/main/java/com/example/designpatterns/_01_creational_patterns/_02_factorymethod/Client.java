@@ -9,5 +9,14 @@ public class Client {
 
         Ship blackShip = new BlackShipFactory().orderShip("blackShip", "kim@mail.com");
         System.out.println(blackShip);
+
+
+        Client client = new Client();
+        client.print(new WhiteShipFactory(), "whiteship", "ship@mail.com");
+        client.print(new BlackShipFactory(), "blackship", "ship@mail.com");
+    }
+
+    private void print(ShipFactory shipFactory, String name, String email) {
+        System.out.println(shipFactory.orderShip(name, email));
     }
 }
