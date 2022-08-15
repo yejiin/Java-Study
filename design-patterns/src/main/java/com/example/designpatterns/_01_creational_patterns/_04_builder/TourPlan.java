@@ -1,6 +1,7 @@
 package com.example.designpatterns._01_creational_patterns._04_builder;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 
 public class TourPlan {
@@ -74,7 +75,10 @@ public class TourPlan {
     }
 
     public void addPlan(int day, String plan) {
-        DetailPlan detail = new DetailPlan(day, plan);
-        this.plans.add(detail);
+        if (this.plans == null) {
+            this.plans = new ArrayList<>();
+        }
+
+        this.plans.add(new DetailPlan(day, plan));
     }
 }
