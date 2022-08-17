@@ -74,6 +74,10 @@ public class TourPlan {
         return plans;
     }
 
+    public void setPlans(List<DetailPlan> plans) {
+        this.plans = plans;
+    }
+
     public void addPlan(int day, String plan) {
         if (this.plans == null) {
             this.plans = new ArrayList<>();
