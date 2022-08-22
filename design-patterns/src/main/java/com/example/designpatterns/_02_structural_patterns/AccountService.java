@@ -1,6 +1,9 @@
 package com.example.designpatterns._02_structural_patterns;
 
-public class AccountService {
+import com.example.designpatterns._02_structural_patterns.security.UserDetails;
+import com.example.designpatterns._02_structural_patterns.security.UserDetailsService;
+
+public class AccountService implements UserDetailsService {
 
     public Account findAccountByUsername(String username) {
         Account account = new Account();
@@ -16,5 +19,10 @@ public class AccountService {
 
         public void updateAccount(Account account) {
 
+    }
+
+    @Override
+    public UserDetails loadUser(String username) {
+        return findAccountByUsername(username);
     }
 }
