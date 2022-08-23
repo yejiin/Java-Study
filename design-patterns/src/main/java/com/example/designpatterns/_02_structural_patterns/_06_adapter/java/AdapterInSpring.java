@@ -1,4 +1,4 @@
-package com.example.designpatterns._02_structural_patterns.java;
+package com.example.designpatterns._02_structural_patterns._06_adapter.java;
 
 import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.web.servlet.HandlerAdapter;

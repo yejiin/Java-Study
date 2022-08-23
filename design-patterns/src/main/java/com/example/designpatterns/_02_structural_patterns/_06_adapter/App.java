@@ -1,7 +1,7 @@
-package com.example.designpatterns._02_structural_patterns;
+package com.example.designpatterns._02_structural_patterns._06_adapter;
 
-import com.example.designpatterns._02_structural_patterns.security.LoginHandler;
-import com.example.designpatterns._02_structural_patterns.security.UserDetailsService;
+import com.example.designpatterns._02_structural_patterns._06_adapter.security.LoginHandler;
+import com.example.designpatterns._02_structural_patterns._06_adapter.security.UserDetailsService;
 
 public class App {
 
