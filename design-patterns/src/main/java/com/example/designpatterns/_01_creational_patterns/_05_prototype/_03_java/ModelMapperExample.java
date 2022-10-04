@@ -1,7 +1,7 @@
-package com.example.designpatterns._01_creational_patterns._05_prototype.java;
+package com.example.designpatterns._01_creational_patterns._05_prototype._03_java;
 
-import com.example.designpatterns._01_creational_patterns._05_prototype.GithubIssue;
-import com.example.designpatterns._01_creational_patterns._05_prototype.GithubRepository;
+import com.example.designpatterns._01_creational_patterns._05_prototype._02_after.GithubIssue;
+import com.example.designpatterns._01_creational_patterns._05_prototype._01_before.GithubRepository;
 import org.modelmapper.ModelMapper;
 
 public class ModelMapperExample {

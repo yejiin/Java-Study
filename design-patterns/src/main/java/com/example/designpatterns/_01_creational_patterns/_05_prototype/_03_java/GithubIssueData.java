@@ -1,4 +1,4 @@
-package com.example.designpatterns._01_creational_patterns._05_prototype.java;
+package com.example.designpatterns._01_creational_patterns._05_prototype._03_java;
 
 public class GithubIssueData {
 

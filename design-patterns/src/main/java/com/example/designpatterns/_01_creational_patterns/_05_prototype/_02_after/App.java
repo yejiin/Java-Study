@@ -1,4 +1,6 @@
-package com.example.designpatterns._01_creational_patterns._05_prototype;
+package com.example.designpatterns._01_creational_patterns._05_prototype._02_after;
+
+import com.example.designpatterns._01_creational_patterns._05_prototype._01_before.GithubRepository;
 
 public class App {
 
