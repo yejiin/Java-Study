@@ -16,8 +16,36 @@
 # 생성 패턴
 생성 패턴은 객체 간 강력한 결합 관계를 느슨한 결합으로 변경하는 설계 기법이다. 객체의 확장을 보다 유연하게 하고 유지 보수를 편리하게 한다.
 
-## 1. [싱글톤 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_01_singleton)
-## 2. [팩토리 매서드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_02_factorymethod)
-## 3. [추상 팩토리 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_03_abstract_factory)
+## 1. [싱글톤 패턴]
+## 2. [팩토리 매서드 패턴]
+## 3. [추상 팩토리 패턴]
 ## 4. [빌더 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_04_builder)
 ## 5. [프로토타입 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_05_prototype)
+
+<br>
+
+# 구조 패턴
+
+## 1. 어댑터 패턴
+## 2. 브릿지 패턴
+## 3. 컴포짓 패턴
+## 4. 데코레이터 패턴
+## 5. 퍼사드 패턴
+## 6. [플라이웨이트 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_11_flyweight)
+## 7. 프록시 패턴
+
+<br>
+
+# 행동 패턴
+
+## 1. [책임 연쇄 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_13_chain_of_responsibilities)
+## 2. 커맨드 패턴
+## 3. [인터프리터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_15_interpreter)
+## 4. 이터레이터 패턴
+## 5. [중재자 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_17_mediator)
+## 6. [메멘토 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_18_memento)
+## 7. 옵저버 패턴
+## 8. 상태 패턴
+## 9. 전략 패턴
+## 10. 템플릿 메소드 패턴
+## 11. [비지터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_23_visitor)
