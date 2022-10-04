@@ -1,4 +1,6 @@
-package com.example.designpatterns._02_structural_patterns._07_bridge;
+package com.example.designpatterns._02_structural_patterns._07_bridge._02_after;
+
+import com.example.designpatterns._02_structural_patterns._07_bridge._01_before.Champion;
 
 public class DefaultChampion implements Champion {
 

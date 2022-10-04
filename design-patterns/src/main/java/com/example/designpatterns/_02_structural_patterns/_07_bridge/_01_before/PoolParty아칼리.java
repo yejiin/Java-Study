@@ -1,4 +1,4 @@
-package com.example.designpatterns._02_structural_patterns._07_bridge;
+package com.example.designpatterns._02_structural_patterns._07_bridge._01_before;
 
 public class PoolParty아칼리 implements Champion {
 

@@ -1,4 +1,4 @@
-package com.example.designpatterns._02_structural_patterns._07_bridge.java;
+package com.example.designpatterns._02_structural_patterns._07_bridge._03_java;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
