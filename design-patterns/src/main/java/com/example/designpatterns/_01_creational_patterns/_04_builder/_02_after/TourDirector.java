@@ -1,4 +1,6 @@
-package com.example.designpatterns._01_creational_patterns._04_builder;
+package com.example.designpatterns._01_creational_patterns._04_builder._02_after;
+
+import com.example.designpatterns._01_creational_patterns._04_builder._01_before.TourPlan;
 
 import java.time.LocalDate;
 

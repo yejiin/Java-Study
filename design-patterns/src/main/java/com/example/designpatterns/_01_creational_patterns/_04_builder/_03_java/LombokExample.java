@@ -1,4 +1,4 @@
-package com.example.designpatterns._01_creational_patterns._04_builder.java;
+package com.example.designpatterns._01_creational_patterns._04_builder._03_java;
 
 import lombok.Builder;
 
