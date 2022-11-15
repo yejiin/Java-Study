@@ -17,7 +17,7 @@
 생성 패턴은 객체 간 강력한 결합 관계를 느슨한 결합으로 변경하는 설계 기법이다. 객체의 확장을 보다 유연하게 하고 유지 보수를 편리하게 한다.
 
 ## 1. [싱글톤 패턴]
-## 2. [팩토리 매서드 패턴]
+## 2. [팩토리 매서드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_02_factory_method)
 ## 3. [추상 팩토리 패턴]
 ## 4. [빌더 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_04_builder)
 ## 5. [프로토타입 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_05_prototype)
