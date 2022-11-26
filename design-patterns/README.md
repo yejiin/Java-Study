@@ -27,7 +27,7 @@
 # 구조 패턴
 
 ## 1. 어댑터 패턴
-## 2. 브릿지 패턴
+## 2. [브릿지 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_07_bridge)
 ## 3. 컴포짓 패턴
 ## 4. [데코레이터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_09_decorator)
 ## 5. 퍼사드 패턴
