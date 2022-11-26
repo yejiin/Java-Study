@@ -1,4 +1,4 @@
-package com.example.designpatterns._01_creational_patterns._03_abstract_factory.java;
+package com.example.designpatterns._01_creational_patterns._03_abstract_factory._03_java;
 
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;

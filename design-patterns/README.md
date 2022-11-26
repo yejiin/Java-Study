@@ -18,7 +18,7 @@
 
 ## 1. [싱글톤 패턴]
 ## 2. [팩토리 매서드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_02_factory_method)
-## 3. [추상 팩토리 패턴]
+## 3. [추상 팩토리 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_03_abstract_method)
 ## 4. [빌더 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_04_builder)
 ## 5. [프로토타입 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_01_creational_patterns/_05_prototype)
 
