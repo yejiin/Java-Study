@@ -13,7 +13,7 @@ public class AccountService implements UserDetailsService {
         return account;
     }
 
-    public void creatqeNewAccount(Account account) {
+    public void createNewAccount(Account account) {
 
     }
 
