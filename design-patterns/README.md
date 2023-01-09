@@ -39,7 +39,7 @@
 # 행동 패턴
 
 ## 1. [책임 연쇄 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_13_chain_of_responsibilities)
-## 2. 커맨드 패턴
+## 2. [커맨드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_14_command)
 ## 3. [인터프리터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_15_interpreter)
 ## 4. 이터레이터 패턴
 ## 5. [중재자 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_17_mediator)
