@@ -2,6 +2,10 @@ package solution.programmars.Lv1;
 
 import java.util.*;
 
+/**
+ * 문제 풀이
+ * -  문자열을 숫자로 파싱 후 파기 여부를 확인
+ */
 public class Solution_Lv1_개인정보수집유효기간 {
 
     public int[] solution(String today, String[] terms, String[] privacies) {
@@ -24,7 +28,7 @@ public class Solution_Lv1_개인정보수집유효기간 {
         return answer.stream().mapToInt(Integer::intValue).toArray();
     }
 
-    private static boolean checkDeletePrivacy(String privacy, String today, String term) {
+    private boolean checkDeletePrivacy(String privacy, String today, String term) {
         String[] privacyDate = privacy.split("\\.");
         String[] todayDate = today.split("\\.");
 
@@ -35,7 +39,7 @@ public class Solution_Lv1_개인정보수집유효기간 {
         return expiration <= todayInt;
     }
 
-    private static int dateArrayToInt(String[] date) {
+    private int dateArrayToInt(String[] date) {
         return Integer.parseInt(date[2])
                 + (Integer.parseInt(date[1]) * 28)
                 + (Integer.parseInt(date[0]) * 28 * 12);
