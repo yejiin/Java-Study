@@ -1,5 +1,11 @@
 ## Programmars
 
+> **Union Find**
+  - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv2/Solution_Lv2_수식최대화.java)) [LV2 - `2020 카카오 인턴십`]  
+    - [ ] stack 이용해서 풀어보기 
+
+<br>
+
 > **문자열**
 - loop
   - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv2/Solution_Lv2_압축.java)) [LV2 - `2018 카카오 블라인드`]
