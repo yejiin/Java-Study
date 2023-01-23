@@ -47,5 +47,5 @@
 ## 7. [옵저버 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_19_observer)
 ## 8. 상태 패턴
 ## 9. [전략 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_21_strategy)
-## 10. 템플릿 메소드 패턴
+## 10. [템플릿 메소드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_22_template_method)
 ## 11. [비지터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_23_visitor)
