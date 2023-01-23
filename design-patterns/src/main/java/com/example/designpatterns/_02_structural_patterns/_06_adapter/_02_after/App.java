@@ -1,8 +1,8 @@
-package com.example.designpatterns._02_structural_patterns._06_adapter;
+package com.example.designpatterns._02_structural_patterns._06_adapter._02_after;
 
-import com.example.designpatterns._02_structural_patterns._06_adapter.security.LoginHandler;
-import com.example.designpatterns._02_structural_patterns._06_adapter.security.UserDetailsService;
-
+import com.example.designpatterns._02_structural_patterns._06_adapter._01_before.AccountService;
+import com.example.designpatterns._02_structural_patterns._06_adapter._01_before.security.LoginHandler;
+import com.example.designpatterns._02_structural_patterns._06_adapter._01_before.security.UserDetailsService;
 public class App {
 
     public static void main(String[] args) {

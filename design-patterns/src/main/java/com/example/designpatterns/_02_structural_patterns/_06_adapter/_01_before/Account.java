@@ -1,6 +1,6 @@
-package com.example.designpatterns._02_structural_patterns._06_adapter;
+package com.example.designpatterns._02_structural_patterns._06_adapter._01_before;
 
-import com.example.designpatterns._02_structural_patterns._06_adapter.security.UserDetails;
+import com.example.designpatterns._02_structural_patterns._06_adapter._01_before.security.UserDetails;
 
 public class Account implements UserDetails {
 
