@@ -28,7 +28,7 @@
 
 ## 1. [어댑터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_06_adapter)
 ## 2. [브릿지 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_07_bridge)
-## 3. 컴포짓 패턴
+## 3. [컴포지트 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_08_composite)
 ## 4. [데코레이터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_09_decorator)
 ## 5. [퍼사드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_10_facade)
 ## 6. [플라이웨이트 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_11_flyweight)
@@ -41,11 +41,11 @@
 ## 1. [책임 연쇄 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_13_chain_of_responsibilities)
 ## 2. [커맨드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_14_command)
 ## 3. [인터프리터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_15_interpreter)
-## 4. 이터레이터 패턴
+## 4. [이터레이터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_16_iterator)
 ## 5. [중재자 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_17_mediator)
 ## 6. [메멘토 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_18_memento)
 ## 7. [옵저버 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_19_observer)
-## 8. 상태 패턴
+## 8. [상태 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_20_state)
 ## 9. [전략 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_21_strategy)
 ## 10. [템플릿 메소드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_22_template_method)
 ## 11. [비지터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_03_behavior_patterns/_23_visitor)
