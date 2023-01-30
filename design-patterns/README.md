@@ -32,7 +32,7 @@
 ## 4. [데코레이터 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_09_decorator)
 ## 5. [퍼사드 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_10_facade)
 ## 6. [플라이웨이트 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_11_flyweight)
-## 7. 프록시 패턴
+## 7. [프록시 패턴](https://github.com/yejiin/Java-Study/tree/master/design-patterns/src/main/java/com/example/designpatterns/_02_structural_patterns/_12_proxy)
 
 <br>
 
