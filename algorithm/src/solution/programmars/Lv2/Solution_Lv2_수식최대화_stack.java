@@ -5,6 +5,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * 앞에서 연산을 순서대로 수행할 때 현재 연산의 앞부분까지의 우선순위에 따라 연산하면 된다.
+ * 현재 연산자가 앞부분의 연산자보다 우선순위가 낮으면 스택에 쌓인다.
+ */
 public class Solution_Lv2_수식최대화_stack {
     private final String[] OP = {"+", "-", "*"};
     private long[] numbers;
