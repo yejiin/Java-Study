@@ -7,6 +7,7 @@
 - [20056 (마법사 상어와 파이어볼)](https://www.acmicpc.net/problem/20056) `[+1]`
 - [21611 (마법사 상어와 블리자드)](https://www.acmicpc.net/problem/21611) (달팽이 문제)
 - [13335 (트럭)](https://www.acmicpc.net/problem/13335)
+- [16918 (봄버맨)](https://www.acmicpc.net/problem/16918)
 
 > ### Brute Force
 - [17281 (⚾)](https://www.acmicpc.net/problem/17281)
