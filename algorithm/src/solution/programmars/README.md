@@ -25,5 +25,10 @@
 
 <br>
 
-> **bfs**
+> **BFS**
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) [Lv2]
+
+<br>
+
+> **Greedy**
+- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) [Lv2 - `2023 카카오 블라인드`]
