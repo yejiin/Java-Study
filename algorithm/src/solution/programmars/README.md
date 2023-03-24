@@ -9,7 +9,8 @@
     - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) - [Lv1 - `2022 카카오 인턴십`]
 - etc
     - [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv0/Solution_Lv0_공던지기.java)) [Lv0]
-
+    - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) - [Lv1 - `2019 카카오 인턴십`]
+  
 <br>
 
 > **Union Find**
