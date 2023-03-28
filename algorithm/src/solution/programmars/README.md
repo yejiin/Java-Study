@@ -31,6 +31,7 @@
 
 > **BFS**
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) [Lv2]
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) [Lv2 - `2021 카카오 인턴십`]
 
 <br>
 
