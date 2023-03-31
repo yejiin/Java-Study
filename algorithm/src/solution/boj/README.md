@@ -24,3 +24,6 @@
 
 > ### 문자열
 - [9081 (단어 맞추기)](https://www.acmicpc.net/problem/9081)
+
+> ### Greedy
+- [1781 (컵라면)](https://www.acmicpc.net/problem/1781)
