@@ -41,3 +41,8 @@
 
 > ### Greedy
 - [1781 (컵라면)](https://www.acmicpc.net/problem/1781)
+
+<br>
+
+> ### DP
+- [2579 (계단 오르기)](https://www.acmicpc.net/problem/2579)
