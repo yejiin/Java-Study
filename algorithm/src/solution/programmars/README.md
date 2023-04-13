@@ -39,3 +39,8 @@
 > **Greedy**
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) [Lv2 - `2023 카카오 블라인드`]
 - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) [Lv2 - `2022 카카오 인턴십`]
+
+<br>
+
+> **이분 탐색**
+- [ ] [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
