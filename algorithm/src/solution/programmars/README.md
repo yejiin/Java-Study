@@ -26,6 +26,7 @@
 > **Sliding Window**
 - [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv2/Solution_Lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84_slidingwindow.java)) [Lv2]
 - [추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) - [Lv3 - `2018 카카오 블라인드`]
+- [ ] [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) - [Lv3 - `2020 카카오 인턴십`]
 
 <br>
 
