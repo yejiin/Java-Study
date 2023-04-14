@@ -2,6 +2,7 @@
 
 > **구현**
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334#) - [Lv1 - `2022 카카오 블라인드`]
+- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) - [Lv1 - `2022 카카오 인턴십`]
 
 <br>
 
@@ -10,8 +11,6 @@
     - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv2/Solution_Lv2_압축.java)) [Lv2 - `2018 카카오 블라인드`]
 - convert
     - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv1/Solution_Lv1_개인정보수집유효기간.java)) [Lv1 - `2023 카카오 블라인드`]
-- map
-    - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) - [Lv1 - `2022 카카오 인턴십`]
 - etc
     - [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) - ([문제풀이](https://github.com/yejiin/Java-Study/blob/master/algorithm/src/solution/programmars/Lv0/Solution_Lv0_공던지기.java)) [Lv0]
     - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) - [Lv1 - `2019 카카오 인턴십`]
