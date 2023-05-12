@@ -47,6 +47,7 @@
 > ### Greedy
 - [1781 (컵라면)](https://www.acmicpc.net/problem/1781)
 - [2212 (센서)](https://www.acmicpc.net/problem/2212)
+- [11501 (주식)](https://www.acmicpc.net/problem/11501)
 
 <br>
 
