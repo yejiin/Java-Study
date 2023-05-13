@@ -31,6 +31,7 @@
 - [1325 (효율적인 해킹)](https://www.acmicpc.net/problem/1325)
 - [21938 (영상처리)](https://www.acmicpc.net/problem/21938)
 - [13565 (침투)](https://www.acmicpc.net/problem/13565)
+- [23835 (어떤 우유의 배달목록 (Easy))](https://www.acmicpc.net/problem/23835)
 
 <br>
 
