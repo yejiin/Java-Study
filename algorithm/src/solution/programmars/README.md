@@ -49,3 +49,8 @@
 
 > **이분 탐색**
 - [ ] [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+
+<br>
+
+> **ETC**
+- [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) `누적합`
